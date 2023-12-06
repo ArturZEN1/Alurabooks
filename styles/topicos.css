@@ -2,7 +2,7 @@
     background: var(--azul-degrade);
     text-align: center;
     padding: 1em 0;
-}
+    }
 
 .topicos__titulo {
     color: var(--branco);
@@ -14,7 +14,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-}    
+}
 
 .topicos__item {
     margin: 2em 0.5em;
@@ -28,3 +28,4 @@
     font-size: 14px;
     font-weight: 700;
 }
+
